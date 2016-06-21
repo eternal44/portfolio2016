@@ -71,7 +71,7 @@ section.background-gray-lightest {
   margin-top: 30px;
 }
 .margin-bottom {
-  margin-bottom: 30px;
+  conmargin-bottom: 30px;
 }
 .margin-bottom--big {
   margin-bottom: 60px !important;
@@ -1396,11 +1396,11 @@ p.social a.facebook {
   background-color: #4460ae;
   border-color: #4460ae;
 }
-p.social a.gplus {
+p.social a.twitter {
   background-color: #c21f25;
   border-color: #c21f25;
 }
-p.social a.twitter {
+p.social a.gplus {
   background-color: #3cf;
   border-color: #3cf;
 }
